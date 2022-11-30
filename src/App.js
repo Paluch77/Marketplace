@@ -1,6 +1,6 @@
 import Home from './Home'
 import SignUp from './SignUp'
-import NewProduct from './NewProduct';
+import NewProduct from './New Product/NewProduct';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 
